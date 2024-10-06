@@ -1,0 +1,5 @@
+/.terraform
+*.pem
+*.hcl
+*.tfstate
+*.backup
